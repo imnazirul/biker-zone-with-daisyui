@@ -2,3 +2,4 @@ node_modules
 *.json
 tailwind.config.js
 src
+.hintrc
